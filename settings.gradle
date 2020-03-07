@@ -1,0 +1,2 @@
+rootProject.name='SwichWifi'
+include ':app'
